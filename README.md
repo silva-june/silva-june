@@ -43,7 +43,7 @@ I am Szilvia, a Data Analyts with expertise in reporting automation and data ana
  <td>- Database: GCP, SSMS, MySQL, ODBC</br>
 - VSCode, Jupiter Notebook</br>
 - GitHub / Jira</br>
-- Automation: Alteryx, VBA, VBScript</br>
+- Automation: Alteryx, VBA, VScript</br>
 - Command Interpreter: cmd, Git Bash, PowerShell</br>
 - Dashboards: PowerBI, QlikSense, Excel</br>
 - APIs: Postman</br>
