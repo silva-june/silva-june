@@ -54,11 +54,11 @@ I am Szilvia, a Data Analyts with expertise in reporting automation and data ana
 
  #### 📫 How to reach me: 
  
- [LinkedIn](https://www.linkedin.com/in/szilvia-jani-36378011a/)
+ [LinkedIn](https://www.linkedin.com/in/szilvia-jani-36378011)
 
 
  #### 🎨 Portfolio Examples:
  
-[Power BI](https://github.com/silva-june/Power-Query-Practice)
+[Power BI - Women's Shoe Retail](https://github.com/silva-june/Power-Query-Practice/tree/main/women-shoes-retail)
 
 
