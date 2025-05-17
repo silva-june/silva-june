@@ -31,4 +31,4 @@ I am Szilvia, a Data Analyts with expertise in reporting automation and data ana
 
  #### 📫 How to reach me: 
  
- [LinkedIn]<https://www.linkedin.com/in/szilvia-jani-36378011a/>
+ [LinkedIn](https://www.linkedin.com/in/szilvia-jani-36378011a/)
