@@ -1,4 +1,4 @@
-## Hi there 👋
+## Profile 👋
 
 <!--
 **silva-june/silva-june** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
