@@ -18,33 +18,47 @@ Here are some ideas to get you started:
 
 I am Szilvia, a Data Analyts with expertise in reporting automation and data analysis.
 
-#### 📖 Skills:
-- Querying data with SQL 
-- Data transformation/ETL 
-- Developing dashboards / data visualisation
-- Automatisation 
 
-#### 🧮 Languages:
-- SQL
-- Python 
-- Power Query (M language)
-- DAX
-- Visual Basic
+<table>
+<thead>
+<tr>
+<th>📖 Skills:</th>
+<th>🧮 Languages:</th>
+ <th>🛠️ Tools:</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> - Querying data with SQL</br>
+- Data transformation/ETL</br>
+- Developing dashboards / data visualisation</br>
+- Automatisation
+</td>
+<td>- SQL</br>
+- Python</br>
+- Power Query (M language)</br>
+- DAX</br>
+- Visual Basic</br>
+</td>
+ <td>- Database: GCP, SSMS, MySQL, ODBC</br>
+- VSCode, Jupiter Notebook</br>
+- GitHub / Jira</br>
+- Automation: Alteryx, VBA, VBScript</br>
+- Command Interpreter: cmd, Git Bash, PowerShell</br>
+- Dashboards: PowerBI, QlikSense, Excel</br>
+- APIs: Postman</br>
+</td>
+</tr>
+</tbody>
+</table>
 
-#### 🛠️ Tools:
-- Database: GCP, SSMS, MySQL, ODBC
-- VSCode, Jupiter Notebook
-- GitHub / Jira
-- Automation: Alteryx, VBA, VBScript
-- Command Interpreter: cmd, Git Bash, PowerShell
-- Dashboards: PowerBI, QlikSense, Excel
-- APIs: Postman
+ #### 📫 How to reach me: 
+ 
+ [LinkedIn](https://www.linkedin.com/in/szilvia-jani-36378011a/)
 
 
  #### 🎨 Portfolio Examples:
  
 [Power BI](https://github.com/silva-june/Power-Query-Practice)
 
- #### 📫 How to reach me: 
- 
- [LinkedIn](https://www.linkedin.com/in/szilvia-jani-36378011a/)
+
