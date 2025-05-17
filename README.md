@@ -19,11 +19,27 @@ Here are some ideas to get you started:
 I am Szilvia, a Data Analyts with expertise in reporting automation and data analysis.
 
 #### 📖 Skills:
-- Querying data with SQL (product familiarity: Google Cloud Platform, SSMS, MySQL, Power Query)
-- Data transformation/ETL (product familiarity: Python (pandas, numpy), Alteryx, Excel)
-- Developing dashboards / data visualisation (product familiarity: Power BI/Qliksense, Python (matplotlib/seaborn), Excel)
-- Automatisation (product familiarity: Alteryx, VBA, VBScript)
-- API request (product familiarity: Postman)
+- Querying data with SQL 
+- Data transformation/ETL 
+- Developing dashboards / data visualisation
+- Automatisation 
+
+#### 🧮 Languages:
+- SQL
+- Python 
+- Power Query (M language)
+- DAX
+- Visual Basic
+
+#### 🛠️ Tools:
+- Database: GCP, SSMS, MySQL, ODBC
+- VSCode, Jupiter Notebook
+- GitHub / Jira
+- Automation: Alteryx, VBA, VBScript
+- Command Interpreter: cmd, Git Bash, PowerShell
+- Dashboards: PowerBI, QlikSense, Excel
+- APIs: Postman
+
 
  #### 🎨 Portfolio Examples:
  
