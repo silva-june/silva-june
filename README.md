@@ -59,6 +59,7 @@ I am Szilvia, a Data Analyts with expertise in reporting automation and data ana
 
  #### 🎨 Portfolio Examples:
  
-[Power BI - Women's Shoe Retail](https://github.com/silva-june/Power-Query-Practice/tree/main/women-shoes-retail)
+[Power BI - Women's Shoe Retail](https://github.com/silva-june/Power-Query-Practice/tree/main/women-shoes-retail)</br>
+[Power BI - Tech Sales Dashboard](https://github.com/silva-june/Power-Query-Practice/tree/main/pj-sales-dashboard)
 
 
